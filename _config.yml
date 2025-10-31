@@ -16,14 +16,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
-location: "Georgia, USA"
+location: "Georgia,USA"
 resume_url: /docs/Gopinath_Ganji_Datascience_Resume.docx
 avatar_image: /img/profile_picture.JPG
 
 #-------------------------------
 # Contact links
 linkedln: "https://linkedln.com/in/gopinath-ganji#" # Add your linkedln handle
-github: "https://github.com/gopinath_ganji#"  # Add your github handle
+github: "https://github.com/gopinath-ganji#"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
@@ -51,6 +51,7 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 
