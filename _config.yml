@@ -22,8 +22,8 @@ avatar_image: /img/profile_picture.JPG
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/in/gopinath-ganji#" # Add your linkedln handle
-github: "https://github.com/gopinath-ganji#"  # Add your github handle
+linkedln: "https://www.linkedin.com/in/gopinath-ganji/" # Add your linkedln handle
+github: "https://github.com/gopinath-ganji/gopinath-ganji.github.io"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
@@ -51,6 +51,7 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 
